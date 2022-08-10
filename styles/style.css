@@ -14,3 +14,106 @@ body {
 /**
  * Add your styles below
  */
+
+ .logo-lr{
+	width: 200;
+	height: 150px;
+	border: 2px solid mediumslateblue;
+ }
+
+ .anne1 {
+	width: 400px;
+	height: 300px;
+	color: mediumslateblue;
+	font-weight: bold;
+	border: 2px solid mediumslateblue ;
+	font-weight: bold;
+	margin: 0 0 -3px;
+		
+ }
+
+ .anne2{
+	font-weight: bold;
+	margin: 0 0 -3px;
+	width: 400px;
+ }
+ .annetitulo {
+	text-align: center;
+	color: white;
+	background-color: mediumslateblue;
+	font-family: cursive;
+	font-size: 20px;
+	margin: 0 -2 -2px;
+	overflow: hidden;
+	background-color: mediumslateblue;
+		border: 2px solid;
+ }
+
+ .textoanne {
+	background-color: mediumslateblue;
+	border: 2px solid mediumslateblue;
+	overflow: hidden;
+	margin: 0 0 -3px;
+	font-size: 15px;
+	text-align: justify;
+	background-color: rgb(255, 255, 255);
+	font-family:'Courier New', Courier, monospace
+ }
+
+ .boton{
+	font-family: cursive;
+	font-size: 20px;
+	margin-left:auto;
+	margin-right: auto;
+	height: 25px;
+	color: #fff;
+	padding: center;
+	font-weight: bold;
+	cursor: pointer;
+	transition: all 0.3s ease;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	outline: none;
+	border-radius: 5px;
+	border: none;
+	background-color: mediumslateblue;
+	box-shadow: 0 5px #f185c2;
+	}
+		
+
+.museoimg{
+	width: 400px;
+	height: 300px;
+	color: mediumslateblue;
+	font-weight: bold;
+	border: 2px solid mediumslateblue;
+	font-weight: bold;
+	margin: 45 0 -3px;
+}	
+
+.museotitulo{
+	text-align: center;
+	color: white;
+	background-color: mediumslateblue;
+	font-family: cursive;
+	font-size: 20px;
+	margin: 0 -2 -2px;
+	overflow: hidden;
+	background-color: mediumslateblue;
+	border: 2px solid;
+}
+
+.imp-museo1{
+	color: white;
+	background-color: mediumslateblue;
+	margin: 0 0 -3px;
+	font-size: 15px;
+	font-family: 'Courier New', Courier, monospace
+}
+
+#imp-museo{
+	padding: 18px;
+	font-size: 20px;
+	font-family: cursive;
+}
